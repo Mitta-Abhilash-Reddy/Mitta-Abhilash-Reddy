@@ -1,4 +1,14 @@
+# 💫 Hi 👋, I'm Abhilash Reddy Mitta
+**B.E. Information Technology Student | Aspiring Software Developer**
 
+Email Me 👉 ✉️ **abhilashreddymitta@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Generative AI (GenAI) Projects and Software Development Projects
+- 🌱 **I’m currently learning:** Artificial Intelligence (AI), Generative AI, Java, Python
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** abhilashreddymitta@gmail.com
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mitta-abhilash-reddy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhilashreddymitta@gmail.com) 
 
