@@ -1,7 +1,10 @@
 # 💫 Hi 👋, I'm Abhilash Reddy Mitta
 **B.E. Information Technology Student | Aspiring Software Developer**
 
+![Profile Views](https://komarev.com/ghpvc/?username=Mitta-Abhilash-Reddy&label=Profile%20Views&color=0e75b6&style=flat)
+
 Email Me 👉 ✉️ **abhilashreddymitta@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
 
 - 🔭 **I’m currently working on:** Generative AI (GenAI) Projects and Software Development Projects
 - 🌱 **I’m currently learning:** Artificial Intelligence (AI), Generative AI, Java, Python
@@ -23,7 +26,5 @@ Email Me 👉 ✉️ **abhilashreddymitta@gmail.com** For Collaboration/Project 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mitta-Abhilash-Reddy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
----
-[![](https://komarev.com/ghpvc/?username=Mitta-Abhilash-Reddy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
